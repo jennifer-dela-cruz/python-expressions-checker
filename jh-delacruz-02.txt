@@ -1,0 +1,229 @@
+Test    Case: GIVEYOU! hello
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: GIVEYOU! "hello world"
+Your  Answer: hello world\n
+Right Answer: hello world\n
+
+Test    Case: GIVEYOU! "hello" #this prints hello
+Your  Answer: hello\n
+Right Answer: hello\n
+
+Test    Case: GIVEYOU! ", world."
+Your  Answer: , world.\n
+Right Answer: , world.\n
+
+Test    Case: GIVEYOU! "12.5"
+Your  Answer: 12.5\n
+Right Answer: 12.5\n
+
+Test    Case: GIVEYOU!       "yes       "
+Your  Answer: yes       \n
+Right Answer: yes       \n
+
+Test    Case: GIVEYOU! "NO!"           #"prints no"
+Your  Answer: NO!\n
+Right Answer: NO!\n
+
+Test    Case: GIVEYOU! "I am       very           sleepy"
+Your  Answer: I am       very           sleepy\n
+Right Answer: I am       very           sleepy\n
+
+Test    Case: GIVEYOU!! hello
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: GIVEYOU!! "hello world"
+Your  Answer: hello world\n\n
+Right Answer: hello world\n\n
+
+Test    Case: GIVEYOU!! "hello" #this prints hello
+Your  Answer: hello\n\n
+Right Answer: hello\n\n
+
+Test    Case: GIVEYOU!! ", world."
+Your  Answer: , world.\n\n
+Right Answer: , world.\n\n
+
+Test    Case: GIVEYOU!! "12.5"
+Your  Answer: 12.5\n\n
+Right Answer: 12.5\n\n
+
+Test    Case: GIVEYOU!!       "yes       "
+Your  Answer: yes       \n\n
+Right Answer: yes       \n\n
+
+Test    Case: GIVEYOU!! "NO!"           #"prints no"
+Your  Answer: NO!\n\n
+Right Answer: NO!\n\n
+
+Test    Case: GIVEYOU!! "I am       very           sleepy"
+Your  Answer: I am       very           sleepy\n\n
+Right Answer: I am       very           sleepy\n\n
+
+Test    Case: #Heyow
+Your  Answer: \n
+Right Answer: \n
+
+Test    Case: PLUS 1 1
+Your  Answer: 2\n
+Right Answer: 2\n
+
+Test    Case: PLUS 4 5
+Your  Answer: 9\n
+Right Answer: 9\n
+
+Test    Case: PLUS 1.1 -1.1
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: PLUS 2 2 2
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: PLUS -10 +20
+Your  Answer: 10\n
+Right Answer: 10\n
+
+Test    Case: PLUS 0 0
+Your  Answer: 0\n
+Right Answer: 0\n
+
+Test    Case: PLUS -1 100000000000000000000000000000000000000
+Your  Answer: 99999999999999999999999999999999999999\n
+Right Answer: 99999999999999999999999999999999999999\n
+
+Test    Case: PLUS -100000000000000000000000000000000000000 1
+Your  Answer: -99999999999999999999999999999999999999\n
+Right Answer: -99999999999999999999999999999999999999\n
+
+Test    Case: MINUS 1 1
+Your  Answer: 0\n
+Right Answer: 0\n
+
+Test    Case: MINUS 4 5
+Your  Answer: -1\n
+Right Answer: -1\n
+
+Test    Case: MINUS 1.1 -1.1
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: MINUS 2 2 2
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: MINUS -10 +20
+Your  Answer: -30\n
+Right Answer: -30\n
+
+Test    Case: MINUS 0 0
+Your  Answer: 0\n
+Right Answer: 0\n
+
+Test    Case: MINUS -1 100000000000000000000000000000000000000
+Your  Answer: -100000000000000000000000000000000000001\n
+Right Answer: -100000000000000000000000000000000000001\n
+
+Test    Case: MINUS -100000000000000000000000000000000000000 1
+Your  Answer: -100000000000000000000000000000000000001\n
+Right Answer: -100000000000000000000000000000000000001\n
+
+Test    Case: TIMES 1 1
+Your  Answer: 1\n
+Right Answer: 1\n
+
+Test    Case: TIMES 4 5
+Your  Answer: 20\n
+Right Answer: 20\n
+
+Test    Case: TIMES 1.1 -1.1
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: TIMES 2 2 2
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: TIMES -10 +20
+Your  Answer: -200\n
+Right Answer: -200\n
+
+Test    Case: TIMES 0 0
+Your  Answer: 0\n
+Right Answer: 0\n
+
+Test    Case: TIMES -1 100000000000000000000000000000000000000
+Your  Answer: -100000000000000000000000000000000000000\n
+Right Answer: -100000000000000000000000000000000000000\n
+
+Test    Case: TIMES -100000000000000000000000000000000000000 1
+Your  Answer: -100000000000000000000000000000000000000\n
+Right Answer: -100000000000000000000000000000000000000\n
+
+Test    Case: DIVBY 1 1
+Your  Answer: 1\n
+Right Answer: 1\n
+
+Test    Case: DIVBY 4 5
+Your  Answer: 0\n
+Right Answer: 0\n
+
+Test    Case: DIVBY 1.1 -1.1
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: DIVBY 2 2 2
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: DIVBY -10 +20
+Your  Answer: -1\n
+Right Answer: -1\n
+
+Test    Case: DIVBY 0 0
+Your  Answer: Error: Integer division or modulo by zero\n
+Right Answer: Error: Division by zero\n
+
+Test    Case: DIVBY -1 100000000000000000000000000000000000000
+Your  Answer: -1\n
+Right Answer: -1\n
+
+Test    Case: DIVBY -100000000000000000000000000000000000000 1
+Your  Answer: -100000000000000000000000000000000000000\n
+Right Answer: -100000000000000000000000000000000000000\n
+
+Test    Case: MODU 1 1
+Your  Answer: 0\n
+Right Answer: 0\n
+
+Test    Case: MODU 4 5
+Your  Answer: 4\n
+Right Answer: 4\n
+
+Test    Case: MODU 1.1 -1.1
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: MODU 2 2 2
+Your  Answer: Syntax is incorrect.\n
+Right Answer: Syntax is incorrect.\n
+
+Test    Case: MODU -10 +20
+Your  Answer: 10\n
+Right Answer: 10\n
+
+Test    Case: MODU 0 0
+Your  Answer: Error: Integer division or modulo by zero\n
+Right Answer: Error: Division by zero\n
+
+Test    Case: MODU -1 100000000000000000000000000000000000000
+Your  Answer: 99999999999999999999999999999999999999\n
+Right Answer: 99999999999999999999999999999999999999\n
+
+Test    Case: MODU -100000000000000000000000000000000000000 1
+Your  Answer: 0\n
+Right Answer: 0\n
+
+Score:	100.0

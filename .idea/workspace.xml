@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7e7ecb1-fec6-4780-8202-e71a3d7b2e9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UVveTmc1Gqzix8oGpU9XNs7doQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="jh-delacruz-02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="214-expressions-checker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jh-delacruz-02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jh-delacruz-02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7e7ecb1-fec6-4780-8202-e71a3d7b2e9d" name="Default Changelist" comment="" />
+      <created>1575454671431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575454671431</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575455701210">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="183" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.832@0.23.1440.832" timestamp="1575455701210" />
+    <state x="506" y="200" key="FileChooserDialogImpl" timestamp="1575455140610">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="506" y="200" key="FileChooserDialogImpl/0.23.1440.832@0.23.1440.832" timestamp="1575455140610" />
+    <state width="1407" height="215" key="GridCell.Tab.0.bottom" timestamp="1576199351239">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="215" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1576199351239" />
+    <state width="1417" height="266" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1575457488771" />
+    <state width="1407" height="215" key="GridCell.Tab.0.center" timestamp="1576199351237">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="215" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1576199351237" />
+    <state width="1417" height="266" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1575457488770" />
+    <state width="1407" height="215" key="GridCell.Tab.0.left" timestamp="1576199351236">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="215" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1576199351236" />
+    <state width="1417" height="266" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1575457488769" />
+    <state width="1407" height="215" key="GridCell.Tab.0.right" timestamp="1576199351238">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="215" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1576199351238" />
+    <state width="1417" height="266" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1575457488770" />
+    <state width="1407" height="266" key="GridCell.Tab.1.bottom" timestamp="1576199346812">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="266" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1576199346812" />
+    <state width="1417" height="266" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1575457488772" />
+    <state width="1407" height="266" key="GridCell.Tab.1.center" timestamp="1576199346811">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="266" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1576199346811" />
+    <state width="1417" height="266" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1575457488772" />
+    <state width="1407" height="266" key="GridCell.Tab.1.left" timestamp="1576199346811">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="266" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1576199346811" />
+    <state width="1417" height="266" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1575457488771" />
+    <state width="1407" height="266" key="GridCell.Tab.1.right" timestamp="1576199346812">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1407" height="266" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1576199346812" />
+    <state width="1417" height="266" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1575457488772" />
+    <state x="220" y="78" key="SettingsEditor" timestamp="1575455180691">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="220" y="78" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1575455180691" />
+    <state x="368" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1576282821365">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="368" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1576282821365" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-02.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jh-delacruz-02.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
